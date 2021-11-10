@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/subha/eclipse-workspace/AutomationSelenium/src/test/java/SampleClass.java">
+        <classes>
+            <class name="SampleClass">
+            </class>
+        </classes>
+    </test>
+</suite>
